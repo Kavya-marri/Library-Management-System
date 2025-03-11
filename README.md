@@ -17,4 +17,4 @@ A simple Library Management System built using **Java, JDBC, SQL, and JavaFX**.
 ## 📂 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
+   git clone https://github.com/Kavya-marri/Library-Management-System.git
